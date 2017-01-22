@@ -1,0 +1,21 @@
+5
+
+0 51 67 34 104
+
+51 0 40 20 76
+
+67 40 0 39 36
+
+34 20 39 0 83
+
+104 76 36 83 0
+
+Gradiska
+
+Banjaluka
+
+Prijedor
+
+Laktasi
+
+Doboj
