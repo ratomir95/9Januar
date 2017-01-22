@@ -1,0 +1,9 @@
+4
+
+admin admin 2
+
+radnik1 radnik1 1
+
+radnik2 radnik2 1
+
+radnik3 radnik3 1

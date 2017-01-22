@@ -1,0 +1,5 @@
+﻿  ViewOut.cpp
+c:\users\ratomir tesic\desktop\nova fascikla\projektniosi\viewout.cpp(140): warning C4244: 'initializing': conversion from 'time_t' to 'long', possible loss of data
+c:\users\ratomir tesic\desktop\nova fascikla\projektniosi\viewout.cpp(214): warning C4101: 'rows': unreferenced local variable
+  Izlaz.vcxproj -> C:\Users\Ratomir Tesic\Desktop\Nova fascikla (3)\9. Januar\Debug\Izlaz.exe
+  Izlaz.vcxproj -> C:\Users\Ratomir Tesic\Desktop\Nova fascikla (3)\9. Januar\Debug\Izlaz.pdb (Partial PDB)

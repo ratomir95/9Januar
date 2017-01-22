@@ -1,0 +1,9 @@
+================================================
+Vrijeme ulaza: 2017-01-22 20:12:19
+Vrijeme izlaza: 2017-01-22 20:12:55
+Mjesto ulaza: Gradiska
+Mjesto izlaza: Doboj
+Tip vozila: 3
+Cijena: 31.2 KM
+Koristili ste èit (JUMPJET = ON), dobili ste 6 zvjezdica, jure vas tenkovi ....
+================================================
